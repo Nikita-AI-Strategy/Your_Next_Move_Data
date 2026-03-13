@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @analyticbabe
-- 👀 I’m interested in ...building AI agents and ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Vitality Simmer: OCI AI & Data Architecture
+Project Overview
 
-<!---
-analyticbabe/analyticbabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project demonstrates the data foundation for the Vitality Simmer initiative, utilizing Oracle Cloud Infrastructure (OCI) to manage high-quality wellness ingredients. As an OCI AI Foundation certified professional, I designed this schema to handle the specific operational logic required for "Vitality" simmer bags, which are engineered for a 2-3 day lifecycle.
+
+The Problem
+
+Managing artisanal wellness products requires precise tracking of ingredient potency and reuse cycles. Standard inventory systems often lack the flexibility to handle the "simmer pot" logic where products are active over multiple days without losing their "vibe" or operational effectiveness.
+
+The Solution
+
+I utilized the OCI Autonomous Database to create a structured data environment that tracks:
+
+Ingredient Inventory: High-value spices like Star Anise (added for optimal sensory balance).
+
+Longevity Tracking: A logic-based system to monitor the 2-day vs. 3-day lifespan of infusion and simmer bags.
+
+Operational Vitality: Ensuring no single ingredient overpowers the final result, maintaining brand consistency and mood.
+
+Technical Stack
+
+Cloud Platform: Oracle Cloud Infrastructure (OCI)
+
+Database: Autonomous Data Warehouse (ADW)
+
+Language: SQL
+
+Architecture: Relational Schema for Wellness Inventory
+
+Key Features
+
+Scalable Schema: Built within an OCI Playground environment to simulate enterprise-grade data handling.
+
+Potency Monitoring: Designed to track the transition of ingredients from raw state to "simmer" status.
+
+Certification Alignment: This project applies the core principles of the OCI AI Foundation certification, specifically focusing on data structuring as a precursor to AI-driven inventory insights.
