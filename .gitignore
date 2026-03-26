@@ -1,0 +1,13 @@
+# OCI Specific Secrets
+*.pem
+*.key
+config
+oci_api_key.pem
+
+# Environment Variables (Where you keep Protocol 794)
+.env
+local_settings.py
+
+# System Files
+.DS_Store
+Thumbs.db
